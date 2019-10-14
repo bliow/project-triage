@@ -1,0 +1,2 @@
+git checkout -b tag-green-10-07 blcomposer
+git pull https://github.com/tag/project-triage.git green-10-07
